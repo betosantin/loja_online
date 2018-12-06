@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381382540920",
+    "firebase_url": "https://lojaonline-65564.firebaseio.com",
+    "project_id": "lojaonline-65564",
+    "storage_bucket": "lojaonline-65564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381382540920:android:6e026d76c459db9d",
+        "android_client_info": {
+          "package_name": "br.com.robertosantin.lojaonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381382540920-u42emgaaquljogg67k2j9v9cboofqtn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOpjbCvvSW2vhQKbOcs3g-FKk_5nn69s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

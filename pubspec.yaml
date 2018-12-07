@@ -33,6 +33,7 @@ dependencies:
   carousel_pro: any
   #imagens suavel
   transparent_image: any
+  #Escopo de usuario ver user_model.dart
   scoped_model: any
   #Obter o caminho no dispositivo
   path_provider: any

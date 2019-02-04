@@ -16,31 +16,29 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: any
+  cupertino_icons: ^0.1.2
   #Icones Novos
-  font_awesome_flutter: any
+  font_awesome_flutter: ^8.0.0
   #grid view da pagina inicial
-  flutter_staggered_grid_view: any
+  flutter_staggered_grid_view: ^0.2.2
   #acessar o banco de dados firebase
-  cloud_firestore: any
+  cloud_firestore: 0.7.4
   #firebase analises
-  firebase_analytics: any
+  firebase_analytics: 1.0.2
   #notificações por push
-  firebase_messaging: any
-  #arrastar imagens
-  carousel_pro: any
+  firebase_messaging: 1.0.4
+  #arrastar imagens com slider
+  carousel_pro: ^0.0.13
   #imagens suavel
-  transparent_image: any
+  transparent_image: 0.1.0
   #Escopo de usuario ver user_model.dart
-  scoped_model: any
+  scoped_model: ^0.3.0
   #Obter o caminho no dispositivo
-  path_provider: any
+  path_provider: ^0.4.1
   #Autenticacao
-  firebase_auth: any
+  firebase_auth: 0.5.18
   #chamar outros aplicativos
-  url_launcher: any
+  url_launcher: ^3.0.3
 
 dev_dependencies:
   flutter_test:
